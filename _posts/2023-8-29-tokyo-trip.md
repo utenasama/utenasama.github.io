@@ -9,7 +9,7 @@ toc:  true
 
 ## 东京
 
-### <p style="color:red;">8.30</p>
+### <p style="color:blue;">8.30</p>
 ### <del>向大师致敬</del> 乘车兜风——回顾《飞向太空》东京取景地
 《飞向太空》于1972年由塔可夫斯基执导。其中有一段长六分钟的东京街头出租车穿行镜头。抛开太空蒙太奇等意味不谈，其营造的未知与不安氛围已让人无比着迷。我第一次看时就产生了去现场逛逛的念头。
 ![github](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_tokyo.png)
@@ -39,7 +39,7 @@ toc:  true
 
 -----
 
-### <p style="color:red;">8.31</p>
+### <p style="color:blue;">8.31</p>
 ### 秋叶原
 ![github](https://github.com/utenasama/utenasama.github.io/raw/master/qiuyeyuan.png)
 秋叶原的昵称"电子一条街"源自二战后在那里兴起的黑市。当时出售的常见商品包括电线、电缆、灯泡和其他电气产品。
