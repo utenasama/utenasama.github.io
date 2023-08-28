@@ -15,7 +15,7 @@ toc:  true
 ![github](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_tokyo.png)
 该段摄影原本可以顺着道路一气呵成，但在拍摄千代田隧道时突然切换镜头，转到三公里外的一之桥系统交流道上，随后汽车反方向朝千代田驶去。此外，都道415号路行驶片段用两个不同的机位以及黑白和彩色画面分别播放了一次，误导性很强。
 路线如下，大约十公里。
-![github](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_rute.jpg)
+![github](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_rute.jpg){:width="50%"}
 
 ### 庭院欣赏——滨离宫恩赐庭园
 从取景地末尾步行约一公里即可到达滨离宫恩赐庭园。该园位于汐留附近，四周环绕着耀眼的高层建筑，但它却是东京市中心天然的绿色堡垒，宁静而安详。庭园风景如画，曾仅供日本皇室所用，1946 年才对外开放。
