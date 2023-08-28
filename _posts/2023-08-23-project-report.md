@@ -50,7 +50,7 @@ misc.o: `gcc -c misc.c`
 
 **2.** （5分）用编辑器创建main.c、compute.c、input.c、compute.h、input.h和main.h文件。下面是它们的内容。注意compute.h和input.h文件仅包含了compute和input函数的声明但没有定义。定义部分是在compute.c和input.c文件中。main.c包含的是两条显示给用户的提示信息。
 （1）创建上述三个源文件和相应头文件，用gcc编译器，生成power可执行文件，并运行power程序。给出完成上述工作的步骤和程序运行结果。
-```bash{.line-numbers}
+{% highlight bash linenos %}
 bill@t14:~/Documents/maketest2$ cat compute.h
 /* compute函数的声明原形 */
 double compute(double, double);
@@ -103,7 +103,7 @@ bill@t14:~/Documents/maketest2$ ./power
 请输入x的值:2
 请输入y的值:3
 x的y次方是: 8.000
-```
+{% endhighlight %}
 
 （2）创建Makefile文件，使用make命令，生成power可执行文件，并运行power程序。给出完成上述工作的步骤和程序运行结果。
 Makefile文件：
