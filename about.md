@@ -3,4 +3,9 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Bill, an undergraduate student at Zhejiang University.
+**Personal Information**
+- Name: Bill
+- Education: Undergraduate
+- University: Zhejiang University
+
+-----
