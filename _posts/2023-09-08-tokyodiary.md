@@ -53,7 +53,7 @@ toc:  true
 然而在日最后一天下午，我又回到东京准备飞回家，一时兴起，我前往新宿地区完成原本的计划。在地铁站里走街串巷，好不容易到了国立竞技场，正好有辆的士停在路边。司机是个老爷爷，几乎不懂英语。他看了日文的说明和地图上的路线规划，跟我笔划半天还是完全不理解为什么要跑到高速上绕大老远，我只好放弃了。
 在街上等了好一会，在黄昏时刻终于找到另一辆空闲的的士。老爷爷司机略懂几个词汇，而且非常亲切有耐心，听着我一路left，right指点。中途我在千代田隧道选错车道，他理解后压着实线变道并发出刺激的笑声，老爷爷实在可爱。
 
-![image](https://github.com/utenasama/utenasama.github.io/blob/master/media/solaris_pic1.jpg)
+![image](https://github.com/utenasama/utenasama.github.io/blob/master/media/solaris_pic1.jpg){:width="70%"}{: .align-center}
 
 <del>巡礼完成后，我假装自己能藐视其他一切“圣地”了，但又偷偷想多去几趟秋叶原。</del>
 以上是一次高度私人化的巡礼记录。
