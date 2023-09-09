@@ -12,7 +12,7 @@ toc:  true
 ## <font color="skyblue">8.30</font>
 ### <del>向大师致敬</del> 乘车兜风——回顾《飞向太空》东京取景地
 《飞向太空》于1972年由塔可夫斯基执导。其中有一段长六分钟的东京街头出租车穿行镜头。抛开太空蒙太奇等意味不谈，其营造的未知与不安氛围已让人无比着迷。我第一次看时就产生了去现场逛逛的念头。
-![image](https://github.com/utenasama/utenasama.github.io/blob/master/solaris_tokyo.png)
+![image](https://github.com/utenasama/utenapic.github.io/blob/main/media/solaris_tokyo.png)
 该段摄影原本可以顺着道路一气呵成，但在拍摄千代田隧道时突然切换镜头，转到三公里外的一之桥系统交流道上，随后汽车反方向朝千代田驶去。此外，都道415号路行驶片段用两个不同的机位以及黑白和彩色画面分别播放了一次，误导性很强。
 
 
