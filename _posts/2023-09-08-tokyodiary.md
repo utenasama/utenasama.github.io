@@ -55,4 +55,5 @@ toc:  true
 ![image](https://github.com/utenasama/utenasama.github.io/blob/master/media/solaris_pic1.jpg){:width="70%"}{: .align-center}
 
 <del>巡礼完成后，我假装自己能藐视其他一切“圣地”了，但又偷偷想多去几趟秋叶原。</del>
+
 以上是一次高度私人化的巡礼记录。
