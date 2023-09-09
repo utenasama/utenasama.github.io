@@ -40,7 +40,7 @@ toc:  true
 {% endhighlight %}
 
 并用apple地图规划出了巡礼路线。这段路线还是比较复杂的，仔细看可以发现线路在东京王子花园酒店附近折返，然后反方向重走了一遍饭仓线，这是因为饭仓隧道是单行道。
-![image](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_rute.jpg){:width="70%"}
+![image](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_rute.jpg){:width="70%"}{: .align-center}
 
 ### 坎坷的巡礼
 
