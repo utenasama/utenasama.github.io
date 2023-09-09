@@ -17,8 +17,6 @@ toc:  true
 
 
 
-
-
 路线如下，大约十公里。
 ![github](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_rute.jpg){:width="50%"}
 
