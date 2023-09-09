@@ -12,7 +12,7 @@ toc:  true
 
 ### 关于《飞向太空》
 《飞向太空》于1972年由塔可夫斯基执导。其中有一段长六分钟的东京街头出租车穿行镜头。抛开太空蒙太奇等意味不谈，其营造的未知与不安氛围已让人无比着迷。我第一次看时就产生了去现场逛逛的念头。只是半个世纪过去，这些路估计早变了，网上也找不到相关信息。
-![image](https://github.com/utenasama/utenasama.github.io/blob/master/solaris_tokyo.png)
+![image](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_tokyo.png)
 
 去东京前，我尝试从镜头中寻找一些路标，电影年代久远，画面里“Akasaka TUNNEL”，“Likura TUNNEL”等隧道口标识还算清晰，但网上信息少，还有重名情况，地图软件更无记载。至于“新宿线4号”，“目黑”等路牌，面目全非，只剩轮廓。好在运气不错，通过对比镜头中河流，铁路，高架桥结构等，加上一张超详细交通图，我在数小时后发现取景地位于首都高速4号新宿线和首都高速都心环状线上。这些路建设于上世纪六十年代，至今不改道不易名，难得。
 
@@ -40,7 +40,7 @@ toc:  true
 {% endhighlight %}
 
 并用apple地图规划出了巡礼路线。这段路线还是比较复杂的，仔细看可以发现线路在东京王子花园酒店附近折返，然后反方向重走了一遍饭仓隧道，这是因为饭仓隧道是单行道。
-![image](https://github.com/utenasama/utenasama.github.io/blob/master/solaris_rute.jpg){:width="70%"}
+![image](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_rute.jpg){:width="70%"}
 
 ### 坎坷的巡礼
 
@@ -53,7 +53,7 @@ toc:  true
 然而在日最后一天下午，我又回到东京准备飞回家，一时兴起，我前往新宿地区完成原本的计划。在地铁站里走街串巷，好不容易到了国立竞技场，正好有辆的士停在路边。司机是个老爷爷，几乎不懂英语。他看了日文的说明和地图上的路线规划，跟我笔划半天还是完全不理解为什么要跑到高速上绕大老远，我只好放弃了。
 在街上等了好一会，在黄昏时刻终于找到另一辆空闲的的士。老爷爷司机略懂几个词汇，而且非常亲切有耐心，听着我一路left，right指点。中途我在千代田隧道选错车道，他理解后压着实线变道并发出刺激的笑声，老爷爷实在可爱。
 
-![image](https://github.com/utenasama/utenasama.github.io/blob/master/media/solaris_pic1.jpg){:width="70%"}{: .align-center}
+![image](https://github.com/utenasama/utenasama.github.io/raw/master/media/solaris_pic1.jpg){:width="70%"}{: .align-center}
 
 <del>巡礼完成后，我假装自己能藐视其他一切“圣地”了，但又偷偷想多去几趟秋叶原。</del>
 
