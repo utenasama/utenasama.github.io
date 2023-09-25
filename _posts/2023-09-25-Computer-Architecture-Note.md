@@ -37,7 +37,7 @@ $$
 Speedup_{overall} = \frac{1}{(1 - Fraction_{enhanced}) + \frac{Fraction_{enhanced}}{Sppedup_{enhanced}}} 
 $$ 
 
-In this formula, “$Speedup_{overall}$” represents the overall speedup achieved, “$Fraction_{enhanced}$” represents the fraction of the task that can be enhanced or parallelized, and “$Speedup_{enhanced}$” represents the speedup achieved by the enhanced or parallelizable portion of the task. We can get the speedup limit:
+In this formula, “\\\(Speedup_{overall}\\\)” represents the overall speedup achieved, “\\\(Fraction_{enhanced}\\\)” represents the fraction of the task that can be enhanced or parallelized, and “\\\(Speedup_{enhanced}\\\)” represents the speedup achieved by the enhanced or parallelizable portion of the task. We can get the speedup limit:
 
 $$
 Speedup limit = \lim_{Speedup_{enhanced} \to \infty} Speedup_{overall} = \frac{1}{1 - Fraction_{enhanced}}
