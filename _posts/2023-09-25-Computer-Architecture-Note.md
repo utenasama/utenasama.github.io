@@ -9,7 +9,7 @@ toc:  true
 ---
 
 
-## Fundamentals of Computer Design - Basis
+### Fundamentals of Computer Design - Basis
 
 #### RISC Architecture
 - Reduced Instruction Set Computer
