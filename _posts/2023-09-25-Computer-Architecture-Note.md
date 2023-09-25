@@ -4,6 +4,7 @@ title: Computer architecture note
 date: 2023-09-25 11:10 +0800
 last_modified_at: 2023-09-26 23:18:25 +0800
 tags: [computer science, note]
+math: true
 toc:  true
 ---
 
