@@ -7,51 +7,69 @@ tags: [travel, tokyo]
 toc:  true
 ---
 
-# Travel Itinerary for Tokyo
+## MUSIC REVIEW
 
-## <font color="skyblue">8.30</font>
-### <del>向大师致敬</del> 乘车兜风——回顾《飞向太空》东京取景地
-《飞向太空》于1972年由塔可夫斯基执导。其中有一段长六分钟的东京街头出租车穿行镜头。抛开太空蒙太奇等意味不谈，其营造的未知与不安氛围已让人无比着迷。我第一次看时就产生了去现场逛逛的念头。
-![image](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_tokyo.png)
-该段摄影原本可以顺着道路一气呵成，但在拍摄千代田隧道时突然切换镜头，转到三公里外的一之桥系统交流道上，随后汽车反方向朝千代田驶去。此外，都道415号路行驶片段用两个不同的机位以及黑白和彩色画面分别播放了一次，误导性很强。
+记录从高中毕业至今我的Apple Music资料库中收藏的专辑。通过时间顺序来回顾，应是简单而自然的方式。
 
+Apple Music界面舒适，结构简单，还容易养成以专辑来收藏音乐的好习惯。但这些都不是我最初使用它的理由。上大学前我来杭旅游了一次，在嘉里中心的一家发烧友音像店中看见很多 hifi 耳机，大受震撼，逐渐在网上一些烧友的蛊惑下入坑 hifi 圈。没错，正是Apple Music的“高解析度无损”和“数字母带”等噱头吸引了我，并且每月5元的价格实在诱人。
 
+> 其实我根本听不出来高解析音源和mp3的区别，并发现了 hifi 耳机圈的诸多卑鄙阴谋，遂退烧，这是后话，也与本文无关。
 
-路线如下，大约十公里。
-![github](https://github.com/utenasama/utenasama.github.io/raw/master/solaris_rute.jpg){:width="50%"}
+### 一
 
-<br>
+![image-20240301124338510](https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301124338510.png)
 
-### 庭院欣赏——滨离宫恩赐庭园
-从取景地末尾步行约一公里即可到达滨离宫恩赐庭园。该园位于汐留附近，四周环绕着耀眼的高层建筑，但它却是东京市中心天然的绿色堡垒，宁静而安详。庭园风景如画，曾仅供日本皇室所用，1946 年才对外开放。
-![github](https://github.com/utenasama/utenasama.github.io/raw/master/media/binli.png)
+我从小听久石让，也看遍宫崎骏的动画电影。下载Apple Music后马上胡乱收藏了诸多久石让专辑。久石让深爱极简主义，这样的风格在其为北野武诸多电影的配乐中更能体现出来。或许这种重复而旋进的编曲风格，对我后来对音乐类型的偏好产生了一些影响。但其实也说不好，因为最能体现久石让极简主义风格的 MinimalRhythm 系列，我并不喜欢也没怎么听过。
 
-<br>
+### 二
 
-### 滨离宫附近的汐留地区
-- 日本电视台 (NTV) 总部大楼外墙的奇怪大钟由知名动画导演宫崎骏所设计
-- 汐留最初是旧新桥站的所在地，也是日本第一条铁路的东京终点站
-- 这里的"意大利街"有许多欧式建筑林立
+![image-20240301134446766](https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134446766.png)
 
-<br>
+<del>窦唯的音乐对于当时没怎么听过摇滚的我来说甚是怪异，我完全不能理解为什么一首歌可以通过哼几个词来完成，也觉得不少曲调仿佛是在念经。</del>
 
------
+后来几年时间我越来越喜欢窦唯的专辑，包括从《黑梦》、《艳阳天》、《山和水》、《幻听》和《雨吁》，而《艳阳天》是我最喜欢的华语专辑（其实我华语专辑听得少）。当我接触过了一些使用键盘，合成器的音乐，比如dreampop，synth-pop后，《艳阳天》的键盘声让我很惊讶，因为窦唯用洋乐器演绎出了纯粹的中国味道。
 
-## <font color="skyblue">8.31</font>
-### 秋叶原
-![github](https://github.com/utenasama/utenasama.github.io/raw/master/qiuyeyuan.png)
-秋叶原的昵称"电子一条街"源自二战后在那里兴起的黑市。当时出售的常见商品包括电线、电缆、灯泡和其他电气产品。
+《艳阳天》中的歌词虽为意识流，却选用很简单朴实的田园情景，语句简单直白，免去了冗余的象征，并完全不屑于通过堆叠云里雾里的词汇来塑造高级感。我印象深刻的歌词“我说这是好日子，你却为何悲伤”，初看这句子普普通通甚至好笑，然而配合着上下文和淡雅的曲调，实属仙品。
 
-在秋叶原无线电会馆的拱廊以及线轨道附近的其他一些地方，秋叶原鼎盛时期发展起来的一些小巷和小商店至今依然保留着原来的风貌。
+### 三
 
-随着日本日益繁荣，秋叶原也吸引了大量电器制造商入驻。专营家用电器的大型商店彼此竞争，争夺前来购买自己的第一台冰箱、电视、洗衣机和空调的客户。
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Images Side by Side</title>
+<style>
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px; /* 设置容器之间的间距 */
+  }
+  .image-container img {
+    max-width: 48%; /* 控制图片宽度 */
+    margin-bottom: 10px; /* 设置图片之间的间距 */
+  }
+</style>
+</head>
+<body>
 
-这使秋叶原成为 20 世纪 70 年代日本繁荣的标志。但随着这些电气用具的普及，秋叶原也逐渐转向计算器、手表、玩具和游戏等产品，并从 90 年代开始向计算机和其他技术转型。
+<div class="image-container">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134359409.png" alt="Image 1">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134541022.png" alt="Image 2">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134624103.png" alt="Image 3">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134656408.png" alt="Image 4">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134554419.png" alt="Image 5">
+</div>
 
-<br>
+<div class="image-container">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134420991.png" alt="Image 6">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134906939.png" alt="Image 7">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134943394.png" alt="Image 8">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135004194.png" alt="Image 9">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135032841.png" alt="Image 10">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135206303.png" alt="Image 11">
+</div>
 
-### 下北泽与涩谷
-<del>随意逛逛</del>
-- 在涩谷路口感受身边快节奏的世界
-- 在下北泽众多精品店内发掘旧货店的宝石
-- 在历史悠久的现场演出场所、夜总会和唱片店欣赏音乐
+</body>
+</html>
+
