@@ -65,8 +65,7 @@ Apple Music界面舒适，结构简单，还容易养成以专辑来收藏音乐
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134906939.png" alt="Image 7">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134943394.png" alt="Image 8">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135004194.png" alt="Image 9">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135032841.png" alt="Image 10">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135206303.png" alt="Image 11">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135206303.png" alt="Image 10">
 </div>
 
 </body>
