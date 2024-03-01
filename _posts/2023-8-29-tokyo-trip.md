@@ -45,7 +45,7 @@ Apple Music界面舒适，结构简单，还容易养成以专辑来收藏音乐
     margin-bottom: 20px; /* 设置容器之间的间距 */
   }
   .image-container img {
-    max-width: 19%; /* 控制图片宽度 */
+    max-width: 50%; /* 控制图片宽度 */
     margin-bottom: 10px; /* 设置图片之间的间距 */
   }
 </style>
