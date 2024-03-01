@@ -13,32 +13,7 @@ toc:  true
 ### 关于《飞向太空》
 《飞向太空》于1972年由塔可夫斯基执导。其中有一段长六分钟的东京街头出租车穿行镜头。抛开太空蒙太奇等意味不谈，其营造的未知与不安氛围已让人无比着迷。我第一次看时就产生了去现场逛逛的念头。只是半个世纪过去，这些路估计早变了，网上也找不到相关信息。
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Two Images Side by Side</title>
-<style>
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-  }
-  .image-container img {
-    max-width: 45%; /* 控制图片宽度 */
-    height: auto; /* 保持宽高比 */
-  }
-</style>
-</head>
-<body>
-
-<div class="image-container">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/solaris_tokyo.png" alt="Image 1">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/solaris_tokyo.png" alt="Image 2">
-</div>
-
-</body>
-</html>
-
+<img src="https://github.com/utenasama/utenasama.github.io/raw/master/solaris_tokyo.png">
 
 去东京前，我尝试从镜头中寻找一些路标，电影年代久远，画面里“Akasaka TUNNEL”，“Likura TUNNEL”等隧道口标识还算清晰，但网上信息少，还有重名情况，地图软件更无记载。至于“新宿线4号”，“目黑”等路牌，面目全非，只剩轮廓。好在运气不错，通过对比镜头中河流，铁路，高架桥结构等，加上一张超详细交通图，我在数小时后发现取景地位于首都高速4号新宿线和首都高速都心环状线上。这些路建设于上世纪六十年代，至今不改道不易名，难得。
 
