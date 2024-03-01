@@ -17,13 +17,13 @@ Apple Music界面舒适，结构简单，还容易养成以专辑来收藏音乐
 
 ### 一
 
-![image-20240301124338510](https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301124338510.png)
+![image-20240301124338510](https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301124338510.png)
 
 我从小听久石让，也看遍宫崎骏的动画电影。下载Apple Music后马上胡乱收藏了诸多久石让专辑。久石让深爱极简主义，这样的风格在其为北野武诸多电影的配乐中更能体现出来。或许这种重复而旋进的编曲风格，对我后来对音乐类型的偏好产生了一些影响。但其实也说不好，因为最能体现久石让极简主义风格的 MinimalRhythm 系列，我并不喜欢也没怎么听过。
 
 ### 二
 
-![image-20240301134446766](https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134446766.png)
+![image-20240301134446766](https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134446766.png)
 
 <del>窦唯的音乐对于当时没怎么听过摇滚的我来说甚是怪异，我完全不能理解为什么一首歌可以通过哼几个词来完成，也觉得不少曲调仿佛是在念经。</del>
 
@@ -54,20 +54,20 @@ Apple Music界面舒适，结构简单，还容易养成以专辑来收藏音乐
 <body>
 
 <div class="image-container">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134359409.png" alt="Image 1">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134541022.png" alt="Image 2">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134624103.png" alt="Image 3">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134656408.png" alt="Image 4">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134554419.png" alt="Image 5">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134359409.png" alt="Image 1">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134541022.png" alt="Image 2">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134624103.png" alt="Image 3">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134656408.png" alt="Image 4">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134554419.png" alt="Image 5">
 </div>
 
 <div class="image-container">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134420991.png" alt="Image 6">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134906939.png" alt="Image 7">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301134943394.png" alt="Image 8">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301135004194.png" alt="Image 9">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301135032841.png" alt="Image 10">
-  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/meida/image-20240301135206303.png" alt="Image 11">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134420991.png" alt="Image 6">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134906939.png" alt="Image 7">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134943394.png" alt="Image 8">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135004194.png" alt="Image 9">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135032841.png" alt="Image 10">
+  <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135206303.png" alt="Image 11">
 </div>
 
 </body>
