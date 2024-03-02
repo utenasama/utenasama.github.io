@@ -5,6 +5,7 @@ date: 2024-02-29 10:00 +0800
 last_modified_at: 2024-03-02 21:30 +0800
 tags: [music]
 toc:  true
+
 ---
 
 选录从高中毕业至今我的Apple Music资料库中收藏的四五百张专辑。通过时间顺序加上一定的类型划分来回顾，应是简单而自然的方式。
@@ -26,9 +27,10 @@ toc:  true
 
 <br/>
 <br/>
+
 ## II 窦唯
 
-![image-20240301134446766](https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134446766.png)
+<img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302214612851.png" alt="image-20240302214612851" style="zoom:67%;" />
 
 <del>窦唯的音乐对于当时没怎么听过摇滚的我来说甚是怪异，我完全不能理解为什么一首歌可以通过哼几个词来完成，也觉得不少曲调仿佛是在念经。</del>
 
@@ -40,6 +42,7 @@ toc:  true
 
 <br/>
 <br/>
+
 ## III  Various
 
 <html lang="en">
@@ -63,6 +66,7 @@ toc:  true
   }
 </style>
 </head>
+
 <body>
 
 <div class="image-container left-align">
@@ -71,11 +75,13 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134624103.png" alt="Image 3">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134656408.png" alt="Image 4">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134554419.png" alt="Image 5">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134420991.png" alt="Image 6">
 </div>
+
 
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301134906939.png" alt="Image 7">
@@ -83,9 +89,11 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135004194.png" alt="Image 9">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301135206303.png" alt="Image 10">
 </div>
+
 
 </body>
 </html>
@@ -95,9 +103,11 @@ toc:  true
 
 <br/>
 <br/>
+
 ## IV Progressive Rock
 
 <html lang="en">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -117,6 +127,7 @@ toc:  true
   }
 </style>
 </head>
+
 <body>
 
 <div class="image-container left-align">
@@ -139,6 +150,7 @@ toc:  true
 </div>
 
 
+
 </body>
 </html>
 
@@ -157,6 +169,7 @@ toc:  true
 
 <br/>
 <br/>
+
 ## V Noise Rock
 
 <html lang="en">
@@ -179,6 +192,7 @@ toc:  true
      max-width: 30%; /* 控制图片宽度 */
   }
 
+
 </style>
 </head>
 <body>
@@ -189,16 +203,19 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301152349161.png" alt="Image 3">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301152420130.png" alt="Image 4">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301152521179.png" alt="Image 5">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154700052.png" alt="Image 6">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154726812.png" alt="Image 7">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154543517.png" alt="Image 8">
 </div>
+
 </body>
 </html>
 
@@ -210,11 +227,13 @@ toc:  true
 
 <br/>
 <br/>
+
 ## VI DreamPop
 
 既然有刚才的 Shoegaze，那么 Dream Pop 也就自然而然地来了。
 
 <html lang="en">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -234,6 +253,7 @@ toc:  true
   }
 </style>
 </head>
+
 <body>
 
 <div class="image-container left-align">
@@ -242,11 +262,13 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154424194.png" alt="Image 3">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154440167.png" alt="Image 4">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154454753.png" alt="Image 5">
     <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154748953.png" alt="Image 6">
 </div>
+
 
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301154804563.png" alt="Image 7">
@@ -254,10 +276,12 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301155701721.png" alt="Image 9">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301165115460.png" alt="Image 10">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302142834345.png" alt="Image 11">
 </div>
+
 </body>
 </html>
 
@@ -271,6 +295,7 @@ toc:  true
 
 <br/>
 <br/>
+
 ## VII Post Punk & Gothic Rock
 
 > 此部分涉及的乐队: the Jesus and Mary Chain，the Cure，Joy Division，Echo & the Bunnyman，Siouxsie & the Banshees，Swans，Bauhaus，the Chameleons，the Sisters of Mercy，Have a Nice Life
@@ -296,6 +321,7 @@ toc:  true
   }
 </style>
 </head>
+
 <body>
 
 <div class="image-container left-align">
@@ -304,11 +330,13 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301155548131.png" alt="Image 3">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301155605005.png" alt="Image 4">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301155740621.png" alt="Image 5">
     <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301155751857.png" alt="Image 6">
 </div>
+
 
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301155825138.png" alt="Image 7">
@@ -316,17 +344,20 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301160020174.png" alt="Image 9">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301160030483.png" alt="Image 10">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301160052025.png" alt="Image 11">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301160103666.png" alt="Image 12">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301160217058.png" alt="Image 13">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240301160227485.png" alt="Image 14">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302124923910.png" alt="Image 15">
 </div>
+
 
 </body>
 </html>
@@ -342,6 +373,7 @@ toc:  true
 
 <br/>
 <br/>
+
 ## VIII Post Rock
 
 字面意思就是后摇滚<del>废话</del>，后摇强调纹理和音色，以及非摇滚风格，而不注重传统的歌曲结构或旋律。但听多了之后我感觉后摇没有最初被定义地那么简单，很多所谓的后摇乐队也不愿意自己被这个标签定义。管他叫什么呢，好听就行了。
@@ -368,6 +400,7 @@ toc:  true
 </style>
 </head>
 
+
 <body>
 
 <div class="image-container left-align">
@@ -376,11 +409,13 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302141723609.png" alt="Image 3">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302141745705.png" alt="Image 4">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302141811727.png" alt="Image 5">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302141839102.png" alt="Image 6">
 </div>
+
 
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302141901281.png" alt="Image 7">
@@ -388,11 +423,13 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302142003657.png" alt="Image 9">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302142027986.png" alt="Image 10">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302142105973.png" alt="Image 11">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302142148253.png" alt="Image 12">
 </div>
+
 
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302142229822.png" alt="Image 13">
@@ -400,9 +437,11 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302191034338.png" alt="Image 15">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302191154347.png" alt="Image 16">
 </div>
+
 
 
 </body>
@@ -412,6 +451,7 @@ toc:  true
 
 <br/>
 <br/>
+
 ## IX Electronic
 
 <html lang="en">
@@ -436,12 +476,15 @@ toc:  true
 </style>
 </head>
 
+
 <body>
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302144850647.png" alt="Image 1">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302145950359.png" alt="Image 2">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302190602115.png" alt="Image 3">
 </div>
+
 
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302190627947.png" alt="Image 4">
@@ -449,11 +492,13 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302190808610.png" alt="Image 6">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302191313816.png" alt="Image 7">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302191419269.png" alt="Image 8">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302191641094.png" alt="Image 9">
 </div>
+
 
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302191733267.png" alt="Image 10">
@@ -461,11 +506,13 @@ toc:  true
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302192003199.png" alt="Image 12">
 </div>
 
+
 <div class="image-container left-align">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302192039980.png" alt="Image 13">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302192059083.png" alt="Image 14">
   <img src="https://github.com/utenasama/utenasama.github.io/raw/master/media/image-20240302192250507.png" alt="Image 15">
 </div>
+
 
 </body>
 </html>
@@ -473,11 +520,11 @@ toc:  true
 很多摇滚乐中的键盘和合成器令人印象深刻，我尤其喜欢键盘音排山倒海的感觉，比如 the Cure 乐队的Closedown，New Order 乐队的Age of Consent，Cocteau Twins 乐队的Cherry-Coloured Funk等。这些曲子本属于摇滚，但是以此为契机，我开始涉略一点电子音乐。想必电子乐无穷无尽的声音不仅是当下也是未来乐界的宠儿。
 
 > 此部分涉及的乐队：New Order，Brian Eno，Grandaddy，Kraftwerk，LCD Soundsystem，Oneohtrix Point Never，Yellow Magic Orchestra，Sweet Trip，the Avalanches，David Bowie，Radiohead
->
 
 
 <br/>
 <br/>
+
 ## Ending
 
 略数了一下，这里有一百张左右的专辑，只约占我的资料库四分之一。我简单地分了几个类介绍，这些大概是资料库中容易分划的几个大集合。还有很多其他杂七杂八的类型未收录，比如一些<del>英国国歌</del>英伦摇滚，大量Alternative专辑，若干二次元专辑和流行乐。
